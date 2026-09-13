@@ -32,18 +32,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-grkim&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-grkim&layout=compact" />
-</p>
-
----
-
 ### 📫 Contact
 
-- Email: kwn07012@gmail.com
+- Email: dev.grkim@gmail.com
 <!-- 블로그나 LinkedIn 있으시면 여기 아래에 한 줄씩 추가하세요
 - Blog: 
 - LinkedIn: 
