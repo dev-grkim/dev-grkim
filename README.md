@@ -1,5 +1,5 @@
 [profile_README.md](https://github.com/user-attachments/files/32156753/profile_README.md)
-<h1 align="center">Hi 👋, I'm dev-grkim</h1>
+<h1 align="center">Hi, I'm dev-grkim</h1>
 <h3 align="center">Embedded / Firmware Developer</h3>
 
 <p align="center">
